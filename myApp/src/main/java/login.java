@@ -8,5 +8,7 @@
  * @author admin
  */
 public class login {
-    
+    i = 10;
+    if (i<5) i+=1;
+   
 }
